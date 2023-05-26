@@ -2,15 +2,15 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background: aliceblue;
 }
-form{
+form {
     margin: 0% auto;
-    display:flex;
-    flex-direction:column;
+    display: flex;
+    flex-direction: column;
     border: 1px solid black;
     border-radius: 20px;
     width: 360px;
     align-items: center;
-    background: linear-gradient(135deg, rgb(43, 225, 43), lime);
+    background: linear-gradient(176deg, rgb(49 124 49), #22ef22);
 }
 #patient-form-header{
     text-align: center;
