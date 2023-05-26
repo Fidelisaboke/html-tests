@@ -20,6 +20,7 @@ h4{
     font-weight: normal;
 }
 #button-submit:hover{
-    background: blue;
+    background: rgb(110, 106, 106);
+    color: white;
 
 }
